@@ -1,5 +1,5 @@
 ---
-title: "Car Sales Analysis"
+title: "Universities Funding Analysis"
 date: 2024-09-02 00:00:00 -0700
 image: assets/images/Uni Funding.png
 categories: [Data Analytics]
