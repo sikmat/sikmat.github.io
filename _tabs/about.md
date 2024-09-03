@@ -11,4 +11,4 @@ Hi, I'm Sikelela, a  Data Analyst with a software development background from th
 * sikelelamathole.sm@gmail.com
 * https://www.linkedin.com/in/sikelela-m/
 
-![by origin](/assets/images/IMG-20240903-WA0003.jpg)
+![by origin](/assets/images/IMG-20240903-WA0003.jpg){: width="250" }
