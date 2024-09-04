@@ -12,7 +12,7 @@ Funding is a critical component that influences the quality of education, resear
 
 **The Project**
 
-Thank you to Nolubabalo Maxazana for their collaboration on this project! Our primary objective was to analyze the funding sources of South African universities to uncover trends and insights that can inform financial planning and policy-making. We concentrated on answering the following questions:
+Thank you to Nolubabalo Maxazana, Sibonelo Mhlongo, Thando Mandondo and Kopano Maluleke for their collaboration on this project! Our primary objective was to analyze the funding sources of South African universities to uncover trends and insights that can inform financial planning and policy-making. We concentrated on answering the following questions:
 
 - How do government funds, private income, and student fees contribute to the total funding of universities?
 - Which universities rely most heavily on government funding versus private income or student fees?
