@@ -31,6 +31,8 @@ The dataset includes the following key columns:
 - **Flight Duration**: Duration of the flight.
 - **Delay**: The amount of delay (if any) in minutes.
 
+<img src="../assets/images/Transformation.png" width="800" height="500" alt="transformation">
+
 ## Objective
 The primary objectives of this analysis are:
 - To assess the on-time performance of various airlines.
@@ -68,6 +70,8 @@ The primary objectives of this analysis are:
 5. **Visualization**:
 - Creating bar charts, line graphs, and scatter plots to represent findings.
 
+<img src="../assets/images/by age.png" width="800" height="500" alt="graph">
+
 ## Key Insights:
 - **Infrastructure Needs**: Pinpointed airports where infrastructure improvements are most needed, particularly those with frequent carrier and aircraft delays. Enhancing these facilities could significantly reduce delays for passengers.
 - **Airline Delay Patterns**: Identified airlines with the highest rates of delayed departures and arrivals, segmented by different delay intervals. This analysis highlights the airlines that may need to focus on improving their timeliness.
@@ -88,4 +92,5 @@ The analysis has several practical applications:
 - **Delay Forecasting**: Development of predictive models can help in providing accurate delay forecasts. These models could be integrated into airline and airport systems, offering passengers more reliable information for planning their journeys.
 
 
+- [Jupyter Notebook Visualization](<https://github.com/sikmat/Airline-Analysis/blob/main/airline_dataset.ipynb>)
 - [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
