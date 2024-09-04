@@ -9,7 +9,7 @@ Hi, I'm Sikelela, a  Data Analyst with a software development background from th
 
 You can also check out my dev portfolio [here](https://sikmat.github.io/dev/)
 
-<img src ="https://github.com/user-attachments/assets/51766db6-4d32-4228-95da-e9201dcaf9aa" width="310" height="170" alt="dev">
+<img src ="https://github.com/user-attachments/assets/51766db6-4d32-4228-95da-e9201dcaf9aa" width="310" height="185" alt="dev">
 
 ### Feel free to reach out to me!
 * sikelelamathole.sm@gmail.com
