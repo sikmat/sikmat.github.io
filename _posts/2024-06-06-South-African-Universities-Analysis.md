@@ -1,5 +1,5 @@
 ---
-title: "South Africa Universities Analysis"
+title: "South African Universities Analysis"
 date: 2024-06-06 00:00:00 -0700
 image: assets/images/Uni.jpg
 categories: [Data Analytics]
