@@ -7,7 +7,6 @@ tags: [data analytics, python, jupyter, matplotlib, seaborn, numpy, pandas]     
 ---
 
 # Airline Analysis
-<img src ="https://github.com/user-attachments/assets/afff1cbb-b64b-432b-b43f-8a16ff22fcf9" width ="1000" height="600" alt="airline1">
 
 ## Project Overview: 
 This project delves into a large-scale analysis of airline records, focusing on delays and cancellations. The objective was to explore the following key questions:
@@ -23,14 +22,14 @@ The dataset used in this analysis was sourced from Kaggle and contains comprehen
 ### Contents
 The dataset includes the following key columns:
 
-**Flight Number**: Unique identifier for each flight.
-**Airline**: The airline operating the flight.
-**Departure Airport**: The airport from which the flight departs.
-**Arrival Airport**: The airport where the flight arrives.
-**Departure Time**: Scheduled departure time.
-**Arrival Time**: Scheduled arrival time.
-**Flight Duration**: Duration of the flight.
-**Delay**: The amount of delay (if any) in minutes.
+- **Flight Number**: Unique identifier for each flight.
+- **Airline**: The airline operating the flight.
+- **Departure Airport**: The airport from which the flight departs.
+- **Arrival Airport**: The airport where the flight arrives.
+- **Departure Time**: Scheduled departure time.
+- **Arrival Time**: Scheduled arrival time.
+- **Flight Duration**: Duration of the flight.
+- **Delay**: The amount of delay (if any) in minutes.
 
 ## Objective
 The primary objectives of this analysis are:
@@ -89,4 +88,4 @@ The analysis has several practical applications:
 - **Delay Forecasting**: Development of predictive models can help in providing accurate delay forecasts. These models could be integrated into airline and airport systems, offering passengers more reliable information for planning their journeys.
 
 
-- [GitHub Project Link](<https://github.com/sikmat/Universities-Funding-Analysis>)
+- [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
