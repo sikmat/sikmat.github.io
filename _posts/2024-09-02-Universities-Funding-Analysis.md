@@ -1,5 +1,5 @@
 ---
-title: "Universities Funding Analysis"
+title: "Universities Funding Analysis (End-to-End Data Engineering Project)"
 date: 2024-09-02 00:00:00 -0700
 image: assets/images/uni1.png
 categories: [Data Analytics]
