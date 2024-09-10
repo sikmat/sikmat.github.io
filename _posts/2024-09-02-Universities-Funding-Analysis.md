@@ -1,7 +1,7 @@
 ---
 title: "Universities Funding Analysis"
 date: 2024-09-02 00:00:00 -0700
-image: assets/images/Uni Funding.png
+image: assets/images/uni.png
 categories: [Data Analytics]
 tags: [data analytics, power bi, python, azure, cloud computing, sql]     # TAG names should always be lowercase
 ---
