@@ -1,7 +1,7 @@
 ---
 title: "South African Universities Analysis"
 date: 2024-06-06 00:00:00 -0700
-image: assets/images/Uni.jpg
+image: assets/images/grad.jpg
 categories: [Data Analytics]
 tags: [data analytics, power bi, python]     # TAG names should always be lowercase
 ---
