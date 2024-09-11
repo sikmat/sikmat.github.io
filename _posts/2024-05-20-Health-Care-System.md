@@ -60,4 +60,4 @@ The Health Care System is a robust solution developed using C# and MySQL databas
 ## Acknowledgements
 A special thank you to Anati Jack, Sibabalo Njisane, Buhle Ngqongwa and Anathi Vato who contributed their time, expertise, and support to this project. Your dedication and teamwork have been instrumental in making this system a reality.
 
-- [GitHub Project Link](<https://github.com/sikmat/Health-Care-File-System>) 
+- [GitHub Project Link](https://github.com/sikmat/Health-Care-File-System) 
