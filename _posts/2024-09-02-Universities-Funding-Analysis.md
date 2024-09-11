@@ -1,10 +1,11 @@
 ---
-title: "Universities Funding Analysis"
+title: "Universities Funding Analysis (End-to-End Data Engineering Project)"
 date: 2024-09-02 00:00:00 -0700
-image: assets/images/Uni Funding.png
+image: assets/images/uni1.png
 categories: [Data Analytics]
 tags: [data analytics, power bi, python, azure, cloud computing, sql]     # TAG names should always be lowercase
 ---
+**End-to-End Data Engineering Project**
 
 **Analysis of Funding Sources for South African Universities**
 
