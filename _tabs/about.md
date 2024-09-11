@@ -11,4 +11,4 @@ Hi, I'm Sikelela, a  Data Analyst with a software development background from th
 * sikelelamathole.sm@gmail.com
 * [https://www.linkedin.com/in/sikelela-m/](https://www.linkedin.com/in/sikelela-m/)
   
-<img src ="https://github.com/user-attachments/assets/57a69121-c287-44a7-9aff-d50c88a66f0a" width="300" height="440" alt="sikmat">
+<img src ="https://github.com/user-attachments/assets/about me.jpg" width="300" height="440" alt="sikmat">
