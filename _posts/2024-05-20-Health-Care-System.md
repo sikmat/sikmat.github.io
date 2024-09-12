@@ -13,7 +13,7 @@ The Health Care System is a robust solution developed using C# and MySQL databas
 
 ## Key Features
 1. **Centralized Patient Database**:
-   - All patient information, including personal details and medical history, is stored in a centralized database accessible from any registered health facility.
+   - All patient information, including personal details and medical history, is stored in a decentralized database accessible from any registered health facility.
    - Patients no longer need to register multiple times at different facilities. Their records can be retrieved and updated by authorized personnel from any location.
 
 2. **Seamless Integration**:
