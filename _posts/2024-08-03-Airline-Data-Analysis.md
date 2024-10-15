@@ -1,7 +1,7 @@
 ---
 title: "Airline Data Analysis"
 date: 2024-08-03 00:00:00 -0700
-image: assets/images/airline1.jpg
+image: assets/images/airline.jpg
 categories: [Data Analytics]
 tags: [data analytics, python, jupyter, matplotlib, seaborn, numpy, pandas]     # TAG names should always be lowercase
 ---
