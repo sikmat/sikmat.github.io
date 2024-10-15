@@ -80,4 +80,9 @@ This project has provided a comprehensive analysis of South African university d
 
 - [Live Power BI Visualization](<https://app.powerbi.com/reportEmbed?reportId=c3647d31-d43e-4f1b-aaf1-87b1cd30b3be&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716>)
 
-<iframe title="Universities Analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=acdf2204-cdb2-44ee-bc9e-32a01115a200&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716" frameborder="0" allowFullScreen="true"></iframe>
+<div style="display: flex; justify-content: flex-start;">
+  <iframe title="Universities Analysis" width="900" height="541.25" 
+          src="https://app.powerbi.com/reportEmbed?reportId=acdf2204-cdb2-44ee-bc9e-32a01115a200&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716" 
+          frameborder="0" allowFullScreen="true">
+  </iframe>
+</div>
