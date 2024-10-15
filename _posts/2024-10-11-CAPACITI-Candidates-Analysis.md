@@ -1,7 +1,7 @@
 ---
 title: "CAPACITI Candidates Analysis"
 date: 2024-10-11 00:00:00 -0700
-image: assets/images/Digital.png
+image: assets/images/Digitals.png
 categories: [Data Analytics]
 tags: [power bi, excel]     # TAG names should always be lowercase
 ---
