@@ -62,6 +62,12 @@ The CAPACITI Digital Cohort program has made significant strides in developing d
 4. **Program Improvement**: By addressing the key areas of weakness identified in this analysis, CAPACITI can further improve employment outcomes, especially in highly technical fields like **Python** and **Data Analytics**.
 
 These insights can be used to guide future program development, better allocate resources for skills training, and ensure that CAPACITI continues to contribute meaningfully to South Africa's digital transformation.
-- [Live Power BI Visualization](<https://app.powerbi.com/reportEmbed?reportId=70aefc01-0ea3-4da4-a039-525386dc4f6d&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716>)
+
 - [Download PDF version of the Power Bi Visualization](<https://github.com/sikmat/Capaciti-Digital-Cohort-Analysis/blob/b09077a048c262b7dc1669572b95ac0af5f78eb5/Score_Cards.pdf>)
 - [GitHub Project Link](<https://github.com/sikmat/Capaciti-Digital-Cohort-Analysis>)
+- [Live Power BI Visualization](<https://app.powerbi.com/reportEmbed?reportId=70aefc01-0ea3-4da4-a039-525386dc4f6d&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716>)
+
+<div style="display: flex; justify-content: flex-start;">
+    <iframe title="Score_Cards" width="900" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=70aefc01-0ea3-4da4-a039-525386dc4f6d&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716" frameborder="0" allowFullScreen="true">
+    </iframe>
+</div>
