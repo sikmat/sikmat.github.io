@@ -61,5 +61,6 @@ This project has significant implications for business strategy and decision-mak
 - [Live Power BI Visualization](<https://app.powerbi.com/reportEmbed?reportId=dd3ba622-20c1-403e-83a4-e8c194260f19&appId=d0827fff-c87d-4eac-8ef5-bfb4beaddc0d&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716>)
 
 <div style="display: flex; justify-content: flex-start;">
-<iframe title="technos_Power BI Project 1" width="900" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d059f45b-b856-4856-9691-411af31205d3&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="technos_Power BI Project 1" width="900" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d059f45b-b856-4856-9691-411af31205d3&autoAuth=true&ctid=a3f14f21-237f-4028-b978-425eb768a716" frameborder="0" allowFullScreen="true">
+    </iframe>
 </div>
