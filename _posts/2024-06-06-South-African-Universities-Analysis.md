@@ -41,7 +41,6 @@ We utilized the "South African University Data" dataset, which covers a broad ra
 
 - **Power BI**: For data visualization and creating interactive dashboards that allowed us to explore trends across different dimensions.
 - **Excel:** For preliminary data cleaning and aggregation.
-- **Python (Pandas, Numpy)**: For data cleaning and preprocessing to ensure accurate analysis.
 - **DAX**: To build formulas and expressions for manipulating data on Power BI
 - **SQL**: For querying the dataset and extracting relevant information for our analysis.
 
