@@ -88,7 +88,8 @@ The analysis has several practical applications:
 
 - **Delay Forecasting**: Development of predictive models can help in providing accurate delay forecasts. These models could be integrated into airline and airport systems, offering passengers more reliable information for planning their journeys.
 
-- [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
+
+## Project Notebook
 
 <div style="display: flex; justify-content: flex-start;">
     <iframe title="Universities Analysis" width="900" height="541.25" 
@@ -96,3 +97,5 @@ The analysis has several practical applications:
             frameborder="0" allowFullScreen="true">
     </iframe>
 </div>
+
+#### [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
