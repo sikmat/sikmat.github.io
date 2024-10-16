@@ -94,3 +94,10 @@ The analysis has several practical applications:
 
 - [Jupyter Notebook Visualization](<https://github.com/sikmat/Airline-Analysis/blob/main/airline_dataset.ipynb>)
 - [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
+
+<div style="display: flex; justify-content: flex-start;">
+    <iframe title="Universities Analysis" width="900" height="541.25" 
+            src="https://nbviewer.org/github/sikmat/Airline-Analysis/blob/main/airline_dataset.ipynb"
+            frameborder="0" allowFullScreen="true">
+    </iframe>
+</div>
