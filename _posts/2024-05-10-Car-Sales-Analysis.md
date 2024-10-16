@@ -1,7 +1,7 @@
 ---
 title: "Car Sales Analysis"
 date: 2024-05-10 00:00:00 -0700
-image: assets/images/car sales.png
+image: assets/images/car cover.jpg
 categories: [Data Analytics]
 tags: [data analytics, power bi, python]     # TAG names should always be lowercase
 ---
