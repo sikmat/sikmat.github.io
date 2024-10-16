@@ -91,8 +91,6 @@ The analysis has several practical applications:
 
 - **Delay Forecasting**: Development of predictive models can help in providing accurate delay forecasts. These models could be integrated into airline and airport systems, offering passengers more reliable information for planning their journeys.
 
-
-- [Jupyter Notebook Visualization](<https://github.com/sikmat/Airline-Analysis/blob/main/airline_dataset.ipynb>)
 - [GitHub Project Link](<https://github.com/sikmat/Airline-Analysis>)
 
 <div style="display: flex; justify-content: flex-start;">
