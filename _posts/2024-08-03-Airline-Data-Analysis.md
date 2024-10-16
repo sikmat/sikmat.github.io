@@ -31,8 +31,6 @@ The dataset includes the following key columns:
 - **Flight Duration**: Duration of the flight.
 - **Delay**: The amount of delay (if any) in minutes.
 
-<img src="../assets/images/Transformation.png" width="800" height="500" alt="transformation">
-
 ## Objective
 The primary objectives of this analysis are:
 - To assess the on-time performance of various airlines.
@@ -70,7 +68,6 @@ The primary objectives of this analysis are:
 5. **Visualization**:
 - Creating bar charts, line graphs, and scatter plots to represent findings.
 
-<img src="../assets/images/by age.png" width="800" height="500" alt="graph">
 
 ## Key Insights:
 - **Infrastructure Needs**: Pinpointed airports where infrastructure improvements are most needed, particularly those with frequent carrier and aircraft delays. Enhancing these facilities could significantly reduce delays for passengers.
