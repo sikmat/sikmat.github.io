@@ -1,7 +1,7 @@
 ---
 title: "Customer Churn Prediction"
 date: 2025-01-29 00:00:00 -0700
-image: assets/images/churn-1.png
+image: assets/images/Customer-Churn.png
 categories: [Machine Learning]
 tags: [machine learning, python, jupyter, pandas, sklearn, flask, deployment]     # TAG names should always be lowercase
 ---
