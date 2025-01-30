@@ -107,6 +107,5 @@ The primary objectives of this analysis are:
             frameborder="0" allowFullScreen="true">
     </iframe>
 </div>
-<video src="assets/churn.webm"></video>
 
 #### [GitHub Project Link](<https://github.com/sikmat/ML-Churn-Prediction>)
