@@ -24,15 +24,27 @@ The dataset used in this analysis was obtained from Kaggle and contains detailed
 ### Contents
 The dataset includes the following key columns:
 
-Customer ID: Unique identifier for each customer.
-- **Subscription Length**: Number of months the customer has been with the company.
-- **Monthly Charges**: Monthly subscription fees.
-- **Total Charges**: Total amount billed.
-- **Contract Type**: Type of customer contract (monthly, yearly, etc.).
-- **Payment Method**: The method used by the customer for payments.
-- **Customer Support Calls**: Number of times the customer contacted support.
-- **Churn**: Whether the customer left (1) or stayed (0).
+- **CustomerID**: Unique customer ID.
+- **Churn**: Flag indicating whether the customer churned (1) or not (0).
+- **Tenure**: Duration of the customer's subscription.
+- **PreferredLoginDevice**: The device most used by the customer (e.g., mobile, web).
+- **CityTier**: Classification of the customer's city (Tier 1, Tier 2, Tier 3).
+- **WarehouseToHome**: Distance between the warehouse and the customer's home.
+- **PreferredPaymentMode**: Customer's preferred payment method (credit card, debit card, cash on delivery).
+- **Gender**: The gender of the customer.
+- **HourSpendOnApp**: Hours spent on the mobile app or website.
+- **NumberOfDeviceRegistered**: Total registered devices for the customer's account.
+- **PreferedOrderCat**: Preferred order category of the customer in the last month.
+- **SatisfactionScore**: Customer's satisfaction rating.
+- **MaritalStatus**: Marital status of the customer.
+- **NumberOfAddress**: Number of addresses linked to the account.
+- **OrderAmountHikeFromLastYear**: Percentage increase in order value compared to last year.
+- **CouponUsed**: Total number of coupons used in the last month.
+- **OrderCount**: Total number of orders placed in the last month.
+- **DaySinceLastOrder**: Number of days since the last order.
+- **CashbackAmount**: Average cashback received in the last month.
 
+Objective
 ## Objective
 The primary objectives of this analysis are:
 - To build a machine learning model that accurately predicts customer churn.
@@ -50,7 +62,7 @@ The primary objectives of this analysis are:
 
 - **pandas & NumPy**: For data manipulation and preprocessing.
 
-- m**atplotlib & seaborn**: For data visualization.
+- **matplotlib & seaborn**: For data visualization.
 
 - **scikit-learn**: For building machine learning models.
 
